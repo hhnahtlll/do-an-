@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Controllers\\NetCafeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:Controllers\\NetCafeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|d:\\download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\netcafe\\views\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:views\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|d:\\download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\netcafe\\models\\netcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:models\\netcafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|d:\\download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\netcafe\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|d:\\download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\netcafe\\controllers\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:controllers\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|d:\\download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\netcafe\\assets\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:2:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:assets\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|d:\\download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\netcafe\\assets\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:1:0:{5E8B123E-8CAF-4BD2-ACBB-02B51FAB08BD}|NetCafe.csproj|solutionrelative:assets\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\Model1.edmx",
+              "RelativeDocumentMoniker": "Views\\Model1.edmx",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Views\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-21T14:41:01.618Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Controllers\\Model1.edmx",
+              "RelativeDocumentMoniker": "Controllers\\Model1.edmx",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Controllers\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Controllers\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-21T14:39:16.804Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cart.js",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\assets\\js\\cart.js",
+              "RelativeDocumentMoniker": "assets\\js\\cart.js",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\assets\\js\\cart.js",
+              "RelativeToolTip": "assets\\js\\cart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T11:34:48.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetCafe.cs",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Models\\NetCafe.cs",
+              "RelativeDocumentMoniker": "Models\\NetCafe.cs",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Models\\NetCafe.cs",
+              "RelativeToolTip": "Models\\NetCafe.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA4wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:39:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cart.js",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\assets\\js\\cart.js",
+              "RelativeDocumentMoniker": "assets\\js\\cart.js",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\assets\\js\\cart.js",
+              "RelativeToolTip": "assets\\js\\cart.js",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-06T13:35:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T13:06:55.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetCafeController.cs",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Controllers\\NetCafeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NetCafeController.cs",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Controllers\\NetCafeController.cs",
+              "RelativeToolTip": "Controllers\\NetCafeController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:19:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-21T14:39:54.459Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Download\\\u0111o\u0302\u0300 a\u0301n co\u031B so\u031B\u0309\\\u0111\u1ED3 \u00E1n c\u01A1 s\u1EDF\\NetCafe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T12:52:56.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

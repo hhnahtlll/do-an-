@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a3e75d991bd9447095e8fd6fef8cf956" Name="Diagram1">
+        <EntityTypeShape EntityType="sqlcfsModel.category" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sqlcfsModel.order_details" Width="1.5" PointX="5.25" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sqlcfsModel.order" Width="1.5" PointX="3" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sqlcfsModel.product_images" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sqlcfsModel.product" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="sqlcfsModel.FK_products_category" ManuallyRouted="false" />
+        <AssociationConnector Association="sqlcfsModel.FK_order_details_order" ManuallyRouted="false" />
+        <AssociationConnector Association="sqlcfsModel.FK_order_details_product" ManuallyRouted="false" />
+        <AssociationConnector Association="sqlcfsModel.FK_product_images_product" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

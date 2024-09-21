@@ -1,0 +1,39 @@
+﻿@model List<NetCafe.Models.OdrItem>
+@{
+    ViewBag.Title = "Hóa đơn - Nét Cafe";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/assets/css/odr.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hóa đơn</h1>
+        <div id="order-items">
+            @foreach (var item in Model)
+            {
+                <div class="order-item">
+                    <img src="@item.ImagePath" alt="@item.Name">
+                    <div class="item-details">
+                        <div class="item-name">@item.Name</div>
+                        <div class="item-price">@string.Format("{0:C0}", item.Price) x @item.Quantity</div>
+                        <div class="item-total">Tổng: @string.Format("{0:C0}", item.Total)</div>
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="total">Tổng cộng: <span id="total-amount">@string.Format("{0:C0}", Model.Sum(i => i.Total))</span></div>
+        <div class="buttons">
+            <button class="btn btn-secondary" onclick="location.href='@Url.Action("Index", "Home")'">Quay lại</button>
+            <button class="btn btn-primary" onclick="processPayment()">Thanh toán</button>
+        </div>
+    </div>
+
+    <script src="~/assets/js/odr.js"></script>
+</body>
+</html>
